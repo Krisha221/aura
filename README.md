@@ -1,4 +1,4 @@
-# AI Studio Mock Web App
+# Mock Web App
 
 This is a **mock web application** I developed to test and apply my learning in web development, UI/UX, and modern interactive technologies.
 
